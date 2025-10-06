@@ -143,7 +143,7 @@ Setelah menemukan pengaturan yang pas (mis. `min_us=620`, `max_us=2380`, `speed=
   Pertimbangkan **PCA9685** (I²C, 16-channel, hardware PWM dedicated).
 
 
-```
+---
 
 ## Lisensi
 
